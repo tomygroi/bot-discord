@@ -5,7 +5,7 @@ Bot de Discord desarrollado de forma personalizada para la gestión integral de 
 ---
 
 ## 🛠️ Información del Desarrollador & Proyecto
-* **Creador / Desarrollador:** Facundo Groizard
+* **Creador / Desarrollador:** Tony / tonymonrrow
 * **Entorno de Ejecución:** Node.js / Discord.js v14
 * **Base de Datos:** SQLite3 (`sqlite3` nativo con migraciones automáticas)
 
